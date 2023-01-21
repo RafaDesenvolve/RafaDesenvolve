@@ -14,3 +14,5 @@
 </div><br/>
 
 Apaixonado pela área da tecnologia, com um sonho de me tornar um grande Dev!
+
+![Snake animation](https://github.com/RafaDesenvolve/RafaDesenvolve/blob/output/github-contribution-grid-snake.svg)
